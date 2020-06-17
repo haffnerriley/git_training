@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hi! I'm Bob. I've been here for a while now.
 New Text 
+=======
+Hi!! I'm Bobby. I've been here for a while now.
+ 
+
+>>>>>>> bobby_branch
