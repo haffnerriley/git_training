@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Hi! I'm Alice. 
 more new text
 made a change
 I'm a file someone added to this repository a while ago.
+=======
+Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+Change
+>>>>>>> 6958006a861a63445ae50ed14c8b3377063f4e6b
