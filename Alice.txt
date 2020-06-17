@@ -6,4 +6,8 @@ I'm a file someone added to this repository a while ago.
 =======
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Change
+<<<<<<< HEAD
 >>>>>>> 6958006a861a63445ae50ed14c8b3377063f4e6b
+=======
+Another Change
+>>>>>>> ff2d2c7769042c83626a7f5e8be52860251ec1ea
